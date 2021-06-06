@@ -1,0 +1,20 @@
+body {
+    background-color: #1e3d59;
+    font-family:arial;
+    color:white
+}
+h1{color:grey;font-family:verdana}
+
+.maindiv {
+    background-color:#f5f0e1;
+    margin: 130px auto;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:10px;
+    align:center;
+
+}
+#result{
+    color: rgb(240, 226, 32);
+}
